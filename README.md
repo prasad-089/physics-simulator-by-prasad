@@ -29,7 +29,9 @@ A Python-based physics simulator designed to visualize and solve core concepts o
 ### g vs Height Graph
 ![g vs height](g_vs_height.png)
 
----
+### Projectile Motion Visualizer
+![Projectile Motion](projectile_motion.png)
+
 
 ##  Technologies Used
 
