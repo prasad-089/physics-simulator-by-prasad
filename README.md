@@ -32,6 +32,10 @@ A Python-based physics simulator designed to visualize and solve core concepts o
 ### Projectile Motion Visualizer
 ![Projectile Motion](projectile_motion.png)
 
+## Animated Projectile Motion
+
+![Animated Projectile](animated_projectile.gif)
+
 
 ##  Technologies Used
 
